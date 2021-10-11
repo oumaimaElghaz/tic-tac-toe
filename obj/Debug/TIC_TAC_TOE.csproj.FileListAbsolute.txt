@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csprojAssemblyReference.cache
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.Form1.resources
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.Form2.resources
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.Properties.Resources.resources
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csproj.GenerateResource.cache
+C:\Users\hp\Documents\projets_visual_studio\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csproj.CoreCompileInputs.cache
